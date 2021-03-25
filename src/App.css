@@ -1,0 +1,99 @@
+.row-header{
+  margin:0px auto;
+  padding:0px auto;
+}
+
+.row-content {
+  margin:0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height:400px;
+}
+
+.footer{
+  background-color: #DEB887;
+  margin:0px auto;
+  padding: 20px 0px 20px 0px;
+}
+.jumbotron {
+  padding:70px 30px 70px 30px;
+  margin:0px auto;
+  background: #CD853F ;
+  color:floralwhite;
+}
+
+.BookPic {
+  width: 300px;
+  height: 350px;
+  
+}
+
+
+address{
+  font-size:80%;
+  margin:0px;
+  color:#0f0f0f;
+}
+
+.navbar-dark {
+  background-color: #A0522D;
+}
+
+
+.box {
+  margin-bottom: 20px;
+  box-shadow: 0 3px 7px #00577759;
+  padding: 10px;
+  border-radius: 5px;
+  width: 320px;
+  transition: 0.2s ease;
+  position: relative;
+  left: 0;
+  font-size: 1em;
+  list-style-type: none;
+
+}
+
+.box:hover {
+  left: 5px;
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* float: left; */
+
+
+}
+
+.float-child {
+  width: 50%;
+  /* float: left; */
+  padding: 20px;
+} 
+
+.float-child2{
+  width: 50%;
+  /* float: left; */
+  padding: 10 20px;
+  position: relative;
+  top: -78px;
+
+
+} 
+
+.inputs {
+  padding-bottom: 10px;
+} 
+
+.carousel {
+  background: #DEB887; }
+  .carousel .carousel-item {
+    height: 300px; }
+    .carousel .carousel-item img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-height: 300px; }
+
